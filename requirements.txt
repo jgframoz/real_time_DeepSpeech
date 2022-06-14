@@ -1,0 +1,6 @@
+deepspeech 
+webrtcvad 
+pyaudio 
+halo 
+numpy 
+scipy
